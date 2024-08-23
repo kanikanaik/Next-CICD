@@ -1,0 +1,6 @@
+version: "3"
+services:
+  hi_next:
+    image: hi_next:latest
+    ports:
+      - "3000:3000"
